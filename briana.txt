@@ -1,0 +1,10 @@
+increase the speed of the Player, but keep the speed of the rings the same.
+
+Decrease the size of the rings by 2, and change their color to a light purple.
+
+The player's character should be the weasel image.
+
+The player should be given three oportunities after losing the game. The 'game over' 
+screen will show after the third time they lose.
+
+Change the 'game over' word to a bold font, and make them slightly bigger

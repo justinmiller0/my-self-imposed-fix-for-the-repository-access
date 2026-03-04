@@ -1,0 +1,9 @@
+Hello my dearaest AI companion. It is my desire that you add multiple unique facets to the game, game.html, I present before you. 
+Firstly, add a health system that begins with merely one point. Secondly, add drops that spawn randomly both in timing and positioning
+the player may collect to add to their health by one point each. 
+Next, add a way to replay the game after losing that does not involve refreshing the page. Along this, remove any text that instructs the
+user to refresh, so as to create a more seamless experience.
+Next, add gold or yellow circles that also spawn randomly for the player to collect that adds to a score.
+For every ten seconds survived, speed up the obstacle circles by some small and fair amount to increase difficulty. Perhaps spawn more?
+Lastly, start the player off with a shield that you may aim with the cursor. This shield will act as a surface for the obstacles to
+bounce off of.
